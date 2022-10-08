@@ -9,3 +9,5 @@ Ex:  <p>This is some text in a paragraph. </p>
 sub <sub>: this tag Subscript text appears half a character below the normal line.
 
 sup <sup>: this tag Superscript text appears half a character upper the normal line.
+
+The <strong> tag is used to define text with strong importance. The content inside is typically displayed in bold.
