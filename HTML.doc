@@ -28,7 +28,7 @@ Block and Inline:
 HTML Elements is divided in two category types :   Block Element, inline Element.
 1- Block Elements: this type of elements the HTML Create invisible Box around Contact. 
 This box object have Properties like Margins , height and width.
-Ex: <DIV?, <OL>,<UL>,<P>,<H>,<video>, <table>
+Ex: <DIV>, <OL>,<UL>,<P>,<H>,<video>, <table>
 
 2- Inline : didn't surrounded with any kind of Box.
 EX: <br> ,<em>, <strong>,<mark>, <a>, <span>,<img>
