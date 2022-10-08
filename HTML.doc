@@ -13,3 +13,11 @@ sup <sup>: this tag Superscript text appears half a character upper the normal l
 The <strong> tag is used to define text with strong importance. The content inside is typically displayed in bold.
 
 <mark> — Highlighting.
+
+Headings :
+The h1 element can be used for headlines, or section headings. 
+There are actually six of these heading elements: h1 through h6.
+Note :
+h1 is used for the main heading on a page, while the rest are used for subheadings. 
+We use a smaller heading to show that one section is inside another section.
+If one section simply comes after the other then we use the same level of heading.
