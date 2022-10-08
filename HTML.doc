@@ -1,2 +1,7 @@
-EM:The <em> tag is used to define emphasized text. 
+<em>:The <em> tag is used to define emphasized text. 
 The content inside is typically displayed in italic.
+
+New Line <br/>: the  tag is used to make new line break on html page.
+
+Pragraph <p> :defines a paragraph
+Ex:  <p>This is some text in a paragraph.</p>
