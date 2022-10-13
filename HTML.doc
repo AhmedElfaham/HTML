@@ -5,6 +5,8 @@ New Line <br/>: the tag is used to make new line break on html page.
 
 Paragraph <p>: defines a paragraph
 Ex:  <p>This is some text in a paragraph. </p>
+OR:  <p>This is some text in a paragraph.
+Note: Close tag is optional.
 
 sub <sub>: this tag Subscript text appears half a character below the normal line.
 
@@ -31,4 +33,11 @@ This box object have Properties like Margins , height and width.
 Ex: <DIV>, <OL>,<UL>,<P>,<H>,<video>, <table>
 
 2- Inline : didn't surrounded with any kind of Box.
-EX: <br> ,<em>, <strong>,<mark>, <a>, <span>,<img>
+EX: <br> ,<em>, <strong>,<mark>, <a>, <span>,<img>.
+
+
+<DIV> : is short for division, becuase it divide up the page into different sections.
+<OL>: order list uses numbers to refer to its item list <il>.
+<UL>: unorder list uses Dots to refer to its item list <il>.
+
+Nested lists:
