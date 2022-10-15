@@ -41,3 +41,6 @@ EX: <br> ,<em>, <strong>,<mark>, <a>, <span>,<img>.
 <UL>: unorder list uses Dots to refer to its item list <il>.
 
 Nested lists:
+
+Cascading style sheet [CSS] : The language that used to manage the Appearance of the web page .
+Document Object Model [DOM] : This is a Model that represent the page elements and each Childs  in a element's Tree Structure in the computer memory[RAM].
