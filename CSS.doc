@@ -37,3 +37,6 @@ NOTE : the Selector can Be nested the Properties will Be Applied to depend On Se
 EX: DIV .headContaner { font-family: serif; } 
 the Property will Applied for All DIV had Calss Name headContaner Only 
 it Select All DIV Element then Select the Div Had the Classname headContaner to Apply Properties.
+
+3- ID Selector: the Properties that will Applied for Spacific Element ID.
+EX: #main-heading {background-color: orange;} this will Apply to Element with ID main-heading only 
