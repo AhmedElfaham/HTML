@@ -33,10 +33,11 @@ The Property Class reperto the name of the shared characteristic for more than e
 The Class Selectore Apply Properties on Each element had the class name on Document
 Ex: .headContaner {font-family: serif;} this will add font-family=serif Property to all Allemts had calss Name headContaner on document.
 
-NOTE : the Selector can Be nested the Properties will Be Applied to depend On Selector order
+NOTE : [combining selector] the Selector can Be nested the Properties will Be Applied to depend On Selector order
 EX: DIV .headContaner { font-family: serif; } 
 the Property will Applied for All DIV had Calss Name headContaner Only 
 it Select All DIV Element then Select the Div Had the Classname headContaner to Apply Properties.
+this methodolgy called descendant selector.
 
 3- ID Selector: the Properties that will Applied for Spacific Element ID.
 EX: #main-heading {background-color: orange;} this will Apply to Element with ID main-heading only 
