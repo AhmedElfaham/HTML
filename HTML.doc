@@ -41,25 +41,3 @@ EX: <br> ,<em>, <strong>,<mark>, <a>, <span>,<img>.
 <UL>: unorder list uses Dots to refer to its item list <il>.
 
 Nested lists:
-
-Cascading style sheet [CSS] : The language that used to manage the Appearance of the web page .
-Document Object Model [DOM] : This is a Model that represent the page elements and each Childs  in a element's Tree Structure in the computer memory[RAM].
-color :Change Font Color.
-EX: color: blue
-
-text-align: Locate text in the lineز
-EX: text-align: center
-
-What If Want to Apply Mulitpil Style to the same Element ?
-we can add all style sprated with semicolon witch is optional if there is one Property that no need for it.
-EX: <p style="color: blue; text-align: center;">Hello world!</p>
-
-attribute value : the attribute value is the part that comes after the = sign,we put quotes around the value.
-EX: <a href="https://www.udacity.com">Udacity</a>
-
-the  CSS ruleset is made up of a selector and a declaration block.
-
-Selector: Selectors indicate which HTML elements the ruleset will apply to.
-Decorator : [Property,Value] For Each Element Or CLass Or ID on all Page.
-
-EX: [Selector] il [Decorator]{Color :Red;}
