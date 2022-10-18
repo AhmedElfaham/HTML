@@ -20,3 +20,9 @@ Selector: Selectors indicate which HTML elements the ruleset will apply to.
 Decorator : [Property,Value] For Each Element Or CLass Or ID on all Page.
 
 EX: [Selector] il [Decorator]{Color :Red;}
+
+
+[Selector]: there are Many categories
+
+1- Type Selector : this Apply Properties on Each element on Document
+Ex: h1 {font-family: serif;} this will add font-family=serif Property to all Allemts of type h1 on document.
