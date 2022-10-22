@@ -41,3 +41,10 @@ this methodolgy called descendant selector.
 
 3- ID Selector: the Properties that will Applied for Spacific Element ID.
 EX: #main-heading {background-color: orange;} this will Apply to Element with ID main-heading only 
+
+
+text-decoration : specifies the decoration added to text.
+text-decoration-line (required) : Sets the kind of text decoration to use (like underline, overline, line-through).
+text-decoration-color           : Sets the color of the text decoration
+text-decoration-style           : Sets the style of the text decoration (like solid, wavy, dotted, dashed, double)
+text-decoration-thickness       : Sets the thickness of the decoration line
