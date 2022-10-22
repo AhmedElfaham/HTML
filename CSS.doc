@@ -48,3 +48,24 @@ text-decoration-line (required) : Sets the kind of text decoration to use (like 
 text-decoration-color           : Sets the color of the text decoration
 text-decoration-style           : Sets the style of the text decoration (like solid, wavy, dotted, dashed, double)
 text-decoration-thickness       : Sets the thickness of the decoration line
+
+
+Cascading and Specificity:
+"cascading" refers to the way that style properties "cascade" down the DOM tree,starting at the top.
+A style applied to the body element will affect the entire document.
+A style applied to a lower-level element will affect that element and all its descendants.
+
+A style applied at a lower level can override a style at a higher level.
+EX:
+if the body has color: red 
+But a paragraph within the body has color: blue,
+the blue will apply to that paragraph and to any elements inside it.
+
+<style>
+    body { color: red; }
+    p { color: blue; }
+</style>
+<body>
+    <p> This will be blue, not red. <br>
+        <em> Same with this. </em> </p>
+</body>
